@@ -2,7 +2,7 @@
 # Collaborative Compensative Transformer Network for Salient Object Detection
 Authors: Jun Chen, Heye Zhang, Mingming Gong, Zhifan Gao, 
 
-![mainimg](https://github.com/zhifan-gao/CCTNet/blob/main/framework.pdf)
+![mainimg](https://github.com/zhifan-gao/CCTNet/blob/main/framework.png)
 
 ## Introduction
 This is a Pytorch implementation for CCTNet
